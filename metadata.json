@@ -1,0 +1,6 @@
+{
+  "name": "FreeFire Cloud",
+  "description": "Play Free Fire in your browser via cloud gaming infrastructure.",
+  "requestFramePermissions": ["fullscreen", "pointer-lock", "gamepad"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
